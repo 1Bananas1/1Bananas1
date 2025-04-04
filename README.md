@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋! I'm Jimmy</h1>
 <h3 align="center">Computer science student at Saint Louis University</h3>
 
-- 🔭 I’m currently working on **Data Science Skills**
+- 🔭 I’m currently working on **pyTracker**
 
 - 🌱 I’m currently learning **Machine Learning and Data Analytics**
 
